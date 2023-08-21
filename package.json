@@ -1,21 +1,21 @@
 {
-  "name": "JS-pic-finder",
+  "name": "js-pic-finder",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Chrapson/JS-pic-finder/",
+  "homepage": "https://github.com/Chrapson/js-pic-finder/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /JS-pic-finder/"
+    "build": "parcel build src/index.html --public-url /js-pic-finder/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chrapson/JS-pic-finder.git"
+    "url": "git+https://github.com/Chrapson/js-pic-finder.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chrapson/JS-pic-finder/issues"
+    "url": "https://github.com/Chrapson/js-pic-finder/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
