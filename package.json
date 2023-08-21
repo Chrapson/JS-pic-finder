@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-11",
+  "name": "JS-pic-finder",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Chrapson/goit-js-hw-11/",
+  "homepage": "https://github.com/Chrapson/JS-pic-finder/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/index.html --public-url /JS-pic-finder/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chrapson/goit-js-hw-11.git"
+    "url": "git+https://github.com/Chrapson/JS-pic-finder.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chrapson/goit-js-hw-11/issues"
+    "url": "https://github.com/Chrapson/JS-pic-finder/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
