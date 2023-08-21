@@ -1,3 +1,5 @@
+import "./css/styles.css";
+
 export const renderPics = (pics) => {
   return pics.data.hits
     .map(
